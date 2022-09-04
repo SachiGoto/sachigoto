@@ -31,13 +31,13 @@ My portfolio site: https://sachigoto.me
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>WordPress, Elementor, PHP, MySQL, Illustrator, Figma</strong> - WordPress site for Willems Berry Farm in Abbotsford, BC. Canada. Set up STMP server, ingegrated their social media feeds with their website. </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Green Around The World</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="img/greenworldhomepgage.png" width="100%"  alt="Rigley 2"/>
+            <img src="img/greenworldhomepgage.png" width="100%"  alt="Green around the world homepage"/>
         </a>
         <br />
         <p align="center">
@@ -49,7 +49,7 @@ My portfolio site: https://sachigoto.me
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Angular, Typescript, MySQL Node.js, Strapi (Headless CMS), Microservices, Digital Ocean(Cloud hosting), DevOps</strong> Full stack web applications. I created client side with Angular, and back end with Node.js and MySQL.</p>
     </td>
   </tr>
   
@@ -70,13 +70,13 @@ My portfolio site: https://sachigoto.me
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong> PHP, MySQL, Bootstrap, Photoshop</strong> Flowershop website that has a filter feature by four occasions. Items belong to the selected occaion are displayed by calling a stored procedure.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sachi Goto Portfolio</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="img/Screen Shot 2022-09-04 at 2.09.44 PM.png" width="100%" alt="Matching Cards"/>
+        <a target="_blank" href="https://sachigoto.me">
+          <img src="img/Screen Shot 2022-09-04 at 2.09.44 PM.png" width="100%" alt="sachigoto portfolio site"/>
         </a>
         <br />
         <p align="center">
@@ -88,7 +88,7 @@ My portfolio site: https://sachigoto.me
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+        <p><strong>Angular, Typescript,GSAP, Strapi(Headless CMS), Cloudinary, Digital Ocean(Cloud hosting), Miscroservices, Illustrator</strong> My majour projects are available through my portfolio site. I created the background with illustrator and animated elements with css keyframes. </p>
     </td>
   </tr>
 </table>
