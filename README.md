@@ -1,23 +1,28 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662314307/Screen_Shot_2022-09-03_at_8.41.15_PM_yzjhio.png))](https://sachigoto.io)
+
+![MasterHead](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662314307/Screen_Shot_2022-09-03_at_8.41.15_PM_yzjhio.png)
 
 
 <h1 align="center">Hi 👋, I'm Sachi</h1>
 <h3 align="center">A full stack developer looking into bring my skills to a tech company</h3>
 
-- WordPress site [Willems Berry Farm](https://willemsberryfarm.ca)
+My resume: [https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf)
 
-- I’m currently learning **React | Three.js**
+My portfolio site: https://sachigoto.me
 
-- Full stack web application [Green Around The World](https://greenworld.sachigoto.me)
+<h3>My recent projects</h3>
 
-- PHP web application [Mobile Flower](https://flowermobile.sachigoto.me)
+- [Willems Berry Farm](https://willemsberryfarm.ca) : WordPress site
+
+- [Green Around The World](https://greenworld.sachigoto.me) : Full stack web application 
+
+- [Mobile Flower](https://flowermobile.sachigoto.me) : PHP web application 
 
 - All of my projects are available at [https://sachigoto.me](https://sachigoto.me)
 
-- How to reach me **Email: gotosachiii@gmail.com**
+- I’m currently learning **React | Three.js**
 
-- Know about my experiences [https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
