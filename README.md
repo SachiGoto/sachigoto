@@ -18,7 +18,7 @@ My portfolio site: https://sachigoto.me
     <td width="50%" valign="top">
       <h3 align="center">Willems Berry Farm</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
+        <a target="_blank" href="https://willemsberryfarm.ca">
             <img src="img/visitwillemsberryfarm.jpg" width="100%" alt="Willems Berry Farm"/>
         </a>
         <br />
@@ -27,7 +27,7 @@ My portfolio site: https://sachigoto.me
 <!--  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
     <img src="img/visitwillemsberryfarm.jpg">
   </a>   -->
- <a href="http://travelara.herokuapp.com" target="_blank">
+ <a href="https://willemsberryfarm.ca" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -36,20 +36,20 @@ My portfolio site: https://sachigoto.me
     <td width="50%" valign="top">
       <h3 align="center">Green Around The World</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://greenworld.sachigoto.me">
             <img src="img/greenworldhomepgage.png" width="100%"  alt="Green around the world homepage"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/SachiGoto/greenAroundtheWorld" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  <a href="https://greenworld.sachigoto.me" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Angular, Typescript, MySQL Node.js, Strapi (Headless CMS), Microservices, Digital Ocean(Cloud hosting), DevOps</strong> Full stack web applications. I created client side with Angular, and back end with Node.js and MySQL.</p>
+        <p><strong>Angular | Typescript |MySQL Node.js | Strapi (Headless CMS) | Microservices, Digital Ocean(Cloud hosting)| DevOps</strong> <br> Full stack web applications. I created client side with Angular, and back end with Node.js and MySQL.</p>
     </td>
   </tr>
   
@@ -57,20 +57,20 @@ My portfolio site: https://sachigoto.me
     <td width="50%" valign="top">
       <h3 align="center">Mobile Flower</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
+        <a target="_blank" href="https://flowermobile.sachigoto.me">
 <!--           <img src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1660782547/Project_Name_duplicate_5674c79acf.gif" width="100%" alt="Portfolio"/> -->
                    <img src="img/flowermobile.png" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/SachiGoto/flowermobile" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://shawncharles.com" target="_blank">
+  <a href="https://flowermobile.sachigoto.me" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong> PHP, MySQL, Bootstrap, Photoshop</strong> Flowershop website that has a filter feature by four occasions. Items belong to the selected occaion are displayed by calling a stored procedure.</p>
+        <p><strong> PHP | MySQL | Bootstrap | Photoshop</strong> <br> Flowershop website that has a filter feature by four occasions. Items belong to the selected occaion are displayed by calling a stored procedure.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sachi Goto Portfolio</h3>
@@ -81,14 +81,14 @@ My portfolio site: https://sachigoto.me
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <a href="https://github.com/SachiGoto/MyPortfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://poke-matchcards.netlify.app" target="_blank">
+  <a href="https://sachigoto.me" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Angular, Typescript,GSAP, Strapi(Headless CMS), Cloudinary, Digital Ocean(Cloud hosting), Miscroservices, Illustrator</strong> My majour projects are available through my portfolio site. I created the background with illustrator and animated elements with css keyframes. </p>
+        <p><strong>Angular, Typescript | GSAP | Strapi(Headless CMS) | Cloudinary | Digital Ocean(Cloud hosting) | Miscroservices | Illustrator</strong><br> My majour projects are available through my portfolio site. I created the background with illustrator and animated elements with css keyframes. </p>
     </td>
   </tr>
 </table>
