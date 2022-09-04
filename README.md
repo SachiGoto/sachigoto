@@ -11,7 +11,89 @@ My resume: [https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/s
 
 My portfolio site: https://sachigoto.me
 
-<h3>My recent projects</h3>
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Willems Berry Farm</h3>
+      <h4> WordPress | Elementor | PHP | Illustrator | Figma
+        <br />
+        <a target="_blank" href="https://willemsberryfarm.ca">
+            <img src="img/visitwillemsberryfarm.jpg" width="100%" alt="Willems berry farm website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+<!--   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>   -->
+<!--   <a href="http://travelara.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><strong>Willems Berry Farm: WrodPress Website</strong> - Write something here. </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Green Around The World</h3>
+        <br />
+      <a target="_blank" href="https://greenworld.sachigoto.me">
+            <img src="img/greenworldhomepgage.png" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+<!--   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><strong>Full stack web application</strong> - Write something here.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Mobile Flower</h3>
+      <br />
+        <a target="_blank" href="https://flowermobile.sachigoto.me">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+<!--   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://shawncharles.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a> -->
+      </p>
+        <p><PHP web application> - Write something here</p>
+    </td>
+<!--     <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://poke-matchcards.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td> -->
+  </tr>
+</table>
+
+<!-- <h3>My recent projects</h3>
 
 - [Willems Berry Farm](https://willemsberryfarm.ca) : WordPress site
 
@@ -19,7 +101,7 @@ My portfolio site: https://sachigoto.me
 
 - [Mobile Flower](https://flowermobile.sachigoto.me) : PHP web application 
 
-- All of my projects are available at [https://sachigoto.me](https://sachigoto.me)
+- All of my projects are available at [https://sachigoto.me](https://sachigoto.me) -->
 
 - I’m currently learning **React | Three.js**
 
