@@ -17,44 +17,39 @@ My portfolio site: https://sachigoto.me
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Willems Berry Farm</h3>
-      <h4> WordPress | Elementor | PHP | Illustrator | Figma
         <br />
-        <a target="_blank" href="https://willemsberryfarm.ca">
-            <img src="img/visitwillemsberryfarm.jpg" width="100%" alt="Willems berry farm website"/>
+        <a target="_blank" href="http://travelara.herokuapp.com">
+            <img src="img/visitwillemsberryfarm.jpg" width="100%" alt="Willems Berry Farm"/>
         </a>
         <br />
-<!--         <p align="center"> -->
+  <p align="center">
           
-<!--   <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+<!--  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="img/visitwillemsberryfarm.jpg">
   </a>   -->
-<!--   <a href="http://travelara.herokuapp.com" target="_blank">
+ <a href="http://travelara.herokuapp.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-<!--       </p> -->
-        <p><strong>Willems Berry Farm: WrodPress Website</strong> - Write something here. </p>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
-  </tr> 
-  
-  <tr>
-      
     <td width="50%" valign="top">
       <h3 align="center">Green Around The World</h3>
         <br />
-      <a target="_blank" href="https://greenworld.sachigoto.me">
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="img/greenworldhomepgage.png" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
-<!--         <p align="center"> -->
+        <p align="center">
           
-<!--   <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
-<!--       </p> -->
-        <p><strong>Full stack web application</strong> - Write something here.</p>
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
   
@@ -62,22 +57,22 @@ My portfolio site: https://sachigoto.me
     <td width="50%" valign="top">
       <h3 align="center">Mobile Flower</h3>
       <br />
-        <a target="_blank" href="https://flowermobile.sachigoto.me">
+        <a target="_blank" href="https://shawncharles.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-<!--   <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
+  </a>
       </p>
-        <p><PHP web application> - Write something here</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
-<!--     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">Sachi Goto Portfolio</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
@@ -93,10 +88,55 @@ My portfolio site: https://sachigoto.me
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
-    </td> -->
+    </td>
   </tr>
 </table>
+<!-- <table bordercolor="#66b2b2">
+  
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Willems Berry Farm</h3>
+        <h4> WordPress | Elementor | PHP | Illustrator | Figma </h4>
+          <br />
+          <a target="_blank" href="https://willemsberryfarm.ca">
+              <img src="img/visitwillemsberryfarm.jpg" width="100%" alt="Willems berry farm website"/>
+           
+          </a>
+          <br />
 
+          <p><strong>Willems Berry Farm: WrodPress Website</strong> - Write something here. </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Green Around The World</h3>
+        <h4 align="center"> Angular | Node.js | Strapi | Digital Ocean | Photoshop </h4>
+          <br />
+        <a target="_blank" href="https://greenworld.sachigoto.me">
+              <img src="img/greenworldhomepgage.png" width="100%"  alt="Green around the world homepage"/>
+          </a>
+          <br />
+          <p><strong>Full stack web application</strong> - Write something here.</p>
+      </td>
+  
+    <tr>
+
+    <tr>
+  
+      <td width="50%" valign="top">
+        <h3 align="center">Mobile Flower</h3>
+        <br />
+          <a target="_blank" href="https://flowermobile.sachigoto.me">
+            <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          </a>
+        <br />
+          <p> PHP web application Write something here</p>
+      </td>
+    </tr>
+ 
+   
+  </table>
+ -->
 <!-- <h3>My recent projects</h3>
 
 - [Willems Berry Farm](https://willemsberryfarm.ca) : WordPress site
