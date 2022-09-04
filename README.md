@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sachi</h1>
 <h3 align="center">A full stack developer looking into bring my skills to a tech company</h3>
 
-- 🔭 WordPress site [Willems Berry Farm](https://willemsberryfarm.ca)
+- WordPress site [Willems Berry Farm](https://willemsberryfarm.ca)
 
-- 🌱 I’m currently learning **React | Three.js**
+- I’m currently learning **React | Three.js**
 
-- 👯 Full stack web application [Green Around The World](https://greenworld.sachigoto.me)
+- Full stack web application [Green Around The World](https://greenworld.sachigoto.me)
 
-- 🤝 PHP web application [Mobile Flower](https://flowermobile.sachigoto.me)
+- PHP web application [Mobile Flower](https://flowermobile.sachigoto.me)
 
-- 👨‍💻 All of my projects are available at [https://sachigoto.me](https://sachigoto.me)
+- All of my projects are available at [https://sachigoto.me](https://sachigoto.me)
 
-- 📫 How to reach me **Email: gotosachiii@gmail.com**
+- How to reach me **Email: gotosachiii@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf)
+- Know about my experiences [https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
