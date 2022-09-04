@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662314307/Screen_Shot_2022-09-03_at_8.41.15_PM_yzjhio.png)
+![MasterHead](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662314307/Screen_Shot_2022-09-03_at_8.41.15_PM_yzjhio.png  )
 
 
 <h1 align="center">Hi 👋, I'm Sachi</h1>
