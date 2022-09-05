@@ -5,7 +5,7 @@
 <img src="img/gitbanner.png">
 
 <h1 align="center">Hi 👋, I'm Sachi</h1>
-<h3 align="center">A full stack developer looking into bring my skills to a tech company</h3>
+<h3 align="center">A full stack developer looking to bring my skills to a tech company</h3>
 
 
 
