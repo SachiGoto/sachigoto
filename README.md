@@ -59,7 +59,8 @@ My portfolio site: https://sachigoto.me
       <br />
         <a target="_blank" href="https://flowermobile.sachigoto.me">
 <!--           <img src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1660782547/Project_Name_duplicate_5674c79acf.gif" width="100%" alt="Portfolio"/> -->
-                   <img src="img/flowermobile.png" width="100%" alt="Portfolio"/>
+<!--                    <img src="img/flowermobile.png" width="100%" alt="Portfolio"/> -->
+          <img src="https://media.giphy.com/media/ZY7TAd1povmtsPYyq1/giphy.gif" width="100%" alt="mobile flower gif">
         </a>
       <br />
         <p align="center">
@@ -76,7 +77,8 @@ My portfolio site: https://sachigoto.me
       <h3 align="center">Sachi Goto Portfolio</h3>
         <br />
         <a target="_blank" href="https://sachigoto.me">
-          <img src="img/Screen Shot 2022-09-04 at 2.09.44 PM.png" width="100%" alt="sachigoto portfolio site"/>
+<!--           <img src="img/Screen Shot 2022-09-04 at 2.09.44 PM.png" width="100%" alt="sachigoto portfolio site"/> -->
+         <img src="https://media.giphy.com/media/sZSZIepFC5l0lOCfSv/giphy.gif">
         </a>
         <br />
         <p align="center">
