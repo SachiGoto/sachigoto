@@ -99,61 +99,7 @@ My portfolio site: https://sachigoto.me
 
 
 
-<!-- <table bordercolor="#66b2b2">
-  
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Willems Berry Farm</h3>
-        <h4> WordPress | Elementor | PHP | Illustrator | Figma </h4>
-          <br />
-          <a target="_blank" href="https://willemsberryfarm.ca">
-              <img src="img/visitwillemsberryfarm.jpg" width="100%" alt="Willems berry farm website"/>
-           
-          </a>
-          <br />
 
-          <p><strong>Willems Berry Farm: WrodPress Website</strong> - Write something here. </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Green Around The World</h3>
-        <h4 align="center"> Angular | Node.js | Strapi | Digital Ocean | Photoshop </h4>
-          <br />
-        <a target="_blank" href="https://greenworld.sachigoto.me">
-              <img src="img/greenworldhomepgage.png" width="100%"  alt="Green around the world homepage"/>
-          </a>
-          <br />
-          <p><strong>Full stack web application</strong> - Write something here.</p>
-      </td>
-  
-    <tr>
-
-    <tr>
-  
-      <td width="50%" valign="top">
-        <h3 align="center">Mobile Flower</h3>
-        <br />
-          <a target="_blank" href="https://flowermobile.sachigoto.me">
-            <img src="https://res.cloudinary.com/vanarts-webdev/image/upload/v1660782547/Project_Name_duplicate_5674c79acf.gif" width="100%" alt="Portfolio"/>
-          </a>
-        <br />
-          <p> PHP web application Write something here</p>
-      </td>
-    </tr>
- 
-   
-  </table>
- -->
-<!-- <h3>My recent projects</h3>
-
-- [Willems Berry Farm](https://willemsberryfarm.ca) : WordPress site
-
-- [Green Around The World](https://greenworld.sachigoto.me) : Full stack web application 
-
-- [Mobile Flower](https://flowermobile.sachigoto.me) : PHP web application 
-
-- All of my projects are available at [https://sachigoto.me](https://sachigoto.me) -->
 
 - I’m currently learning **React | Three.js**
 
@@ -162,7 +108,7 @@ My portfolio site: https://sachigoto.me
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sachigoto2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachigoto2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachi-goto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachi-goto/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sachi-goto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachi-goto/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sachi8619/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sachi8619/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/vanartsvanarts3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/vanartsvanarts3" height="30" width="40" /></a>
 </p>
