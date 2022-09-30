@@ -9,7 +9,7 @@
 
 
 
-My resume: [https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1662258073/sachigoto_resume_c380c1129e.pdf)
+My resume: [https://res.cloudinary.com/vanarts-webdev/image/upload/v1664231494/sachigoto_resume_70ac4dc54f.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1664231494/sachigoto_resume_70ac4dc54f.pdf)
 
 My portfolio site: https://sachigoto.me
 
