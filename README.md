@@ -40,7 +40,7 @@ My portfolio site: https://sachigoto.me
     <td width="50%" valign="top">
       <h3 align="center">Green Around The World</h3>
         <br />
-      <a target="_blank" href="https://greenworld.sachigoto.me">
+      <a target="_blank" href="https://greenworld.sachigoto.com">
             <img src="img/greenworldhomepgage.png" width="100%"  alt="Green around the world homepage"/>
         </a>
         <br />
