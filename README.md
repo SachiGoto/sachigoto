@@ -99,6 +99,7 @@ My portfolio site: https://sachigoto.me
   </tr>
 </table>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SachiGoto&theme=merko)](https://git.io/streak-stats)
 
 
 
