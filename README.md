@@ -9,7 +9,7 @@
 
 
 
-My resume: [https://res.cloudinary.com/vanarts-webdev/image/upload/v1667873520/sachigoto-resume-High_Potential_Recruiting_iydmcj.pdf](https://res.cloudinary.com/vanarts-webdev/image/upload/v1667873520/sachigoto-resume-High_Potential_Recruiting_iydmcj.pdf)
+My resume: [https://res.cloudinary.com/vanarts-webdev/image/upload/v1667873520/sachigoto-resume-High_Potential_Recruiting_iydmcj.pdf]
 
 My portfolio site: https://sachigoto.me
 
