@@ -8,7 +8,7 @@
 <h3 align="center">A full stack developer looking to bring my skills to a tech company</h3>
 
 
-<a href="https://res.cloudinary.com/vanarts-webdev/image/upload/v1668276989/sachigoto-resume_jwy8yv.pdf">My resume</a>
+<a href="https://res.cloudinary.com/vanarts-webdev/image/upload/v1668633494/sachigoto-resume_fjetzt.pdf">My resume</a>
 
 <A href="https://sachigoto.me">My portfolio site</a>
 
