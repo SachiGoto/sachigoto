@@ -8,9 +8,9 @@
 <h3 align="center">A full stack developer looking to bring my skills to a tech company</h3>
 
 
-<a href="https://res.cloudinary.com/vanarts-webdev/image/upload/v1668633494/sachigoto-resume_fjetzt.pdf">My resume</a>
+<a href="https://res.cloudinary.com/vanarts-webdev/image/upload/v1668633494/sachigoto-resume_fjetzt.pdf" target="_blank">My resume</a>
 
-<A href="https://sachigoto.me">My portfolio site</a>
+<A href="https://sachigoto.me" target="_blank">My portfolio site</a>
 
 <img src="https://www.codewars.com/users/SachiGoto/badges/large">
 
