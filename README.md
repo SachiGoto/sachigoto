@@ -39,7 +39,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Green Around The World</h3>
         <br />
-      <a target="_blank" href="https://greenworld.sachigoto.com">
+      <a target="_blank" https://sachigoto.me/greenaroundtheworld>
             <img src="img/greenworldhomepgage.png" width="100%"  alt="Green around the world homepage"/>
         </a>
         <br />
