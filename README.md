@@ -16,6 +16,53 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Lost and Found</h3>
+      <br />
+        <a target="_blank" href="#">
+<!--           <img src="#" width="100%" alt="Portfolio"/> -->
+<!--                    <img src="img/flowermobile.png" alt="Portfolio"/> -->
+          <div  align="center">
+         <img src="https://media.giphy.com/media/KUSzhGOqjj9lsgaOP8/giphy.gif" width="400"/>
+          </div>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/SachiGoto/flowermobile" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mobileflowers.herokuapp.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong> Angular | Typescript | Bootstrap | MongoDB | Node.js | Cloudinary | </strong> <br> 
+This lost and found web app is for reporting lost items. You can upload an image of a found item and edit the item after it’s posted. 
+In this app, you can view posts (lost items), submit and edit posts, and deactivate posts once items are claimed.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Sachi Goto Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://sachigoto.me">
+<!--           <img src="img/Screen Shot 2022-09-04 at 2.09.44 PM.png" width="100%" alt="sachigoto portfolio site"/> -->
+         <img src="https://media.giphy.com/media/sZSZIepFC5l0lOCfSv/giphy.gif">
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/SachiGoto/MyPortfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://sachigoto.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Angular, Typescript | GSAP | Strapi(Headless CMS) | Cloudinary | Digital Ocean(Cloud hosting) | Miscroservices | Illustrator</strong><br> My majour projects are available through my portfolio site. I created the background with illustrator and animated elements with css keyframes. </p>
+    </td>
+  </tr>
+  
+  
+  
   
   <tr>
     <td width="50%" valign="top">
@@ -55,6 +102,11 @@
         <p><strong>Angular | Typescript |MySQL Node.js | Strapi (Headless CMS) | Microservices, Digital Ocean(Cloud hosting)| DevOps</strong> <br> Full stack web applications. I created client side with Angular, and back end with Node.js and MySQL.</p>
     </td>
   </tr>
+  
+  
+  
+  
+  
   
   <tr>
     <td width="50%" valign="top">
@@ -96,6 +148,13 @@
         <p><strong>Angular, Typescript | GSAP | Strapi(Headless CMS) | Cloudinary | Digital Ocean(Cloud hosting) | Miscroservices | Illustrator</strong><br> My majour projects are available through my portfolio site. I created the background with illustrator and animated elements with css keyframes. </p>
     </td>
   </tr>
+  
+  
+  
+  
+  
+  
+  
 </table>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SachiGoto&theme=merko)](https://git.io/streak-stats)
