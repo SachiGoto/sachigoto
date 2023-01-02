@@ -20,12 +20,10 @@
     <td width="50%" valign="top">
       <h3 align="center">Lost and Found</h3>
       <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://flowermobile.sachigoto.me">
 <!--           <img src="#" width="100%" alt="#"/> -->
 <!--                    <img src="#" alt="#"/> -->
-          <div  align="center">
-         <img src="https://media.giphy.com/media/KUSzhGOqjj9lsgaOP8/giphy.gif" width="400"/>
-          </div>
+          <img src="https://media.giphy.com/media/KUSzhGOqjj9lsgaOP8/giphy.gif" width="100%" alt="mobile flower gif">
         </a>
       <br />
         <p align="center">
