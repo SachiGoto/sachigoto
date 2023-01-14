@@ -4,7 +4,7 @@
 
 <img src="img/gitbanner.png">
 
-<h1 align="center">Hi 👋, I'm Sachi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/sudnyeshtalekar/sudnyeshtalekar/master/Assets/Hi.gif" width="40" />, I'm Sachi</h1>
 <h3 align="center">A full stack developer looking to bring my skills to a tech company</h3>
 
 
