@@ -17,6 +17,24 @@
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
     <tr>
+            <td width="50%" valign="top">
+      <h3 align="center">Sustainable Hub</h3>
+        <br />
+        <a target="_blank" href="https://sustainable-hub-backend.herokuapp.com/">
+         <img src="https://media.giphy.com/media/NoV0M0idoTUfv1AGYW/giphy.gif" width="100%" alt=" Sustainable Hub" >
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/SachiGoto/100hours-project" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://sachigoto.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, TailWind | Node.js | Heroku | Cloudinary | Illustrator</strong><br> This app is designed to help people live a more sustainable lifestyle by providing suggestions for sustainable activities in their daily lives. </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Lost and Found</h3>
       <br />
@@ -37,26 +55,8 @@
         <p><strong> Angular | Typescript | Bootstrap | MongoDB | Node.js | Cloudinary | </strong> <br> 
 This lost and found web app is for reporting lost items. You can upload an image of a found item and edit the item after it’s posted. 
 In this app, you can view posts (lost items), submit and edit posts, and deactivate posts once items are claimed.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Sachi Goto Portfolio</h3>
-        <br />
-        <a target="_blank" href="https://sachigoto.me">
-<!--           <img src="img/Screen Shot 2022-09-04 at 2.09.44 PM.png" width="100%" alt="sachigoto portfolio site"/> -->
-         <img src="https://media.giphy.com/media/sZSZIepFC5l0lOCfSv/giphy.gif">
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/SachiGoto/MyPortfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://sachigoto.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Angular, Typescript | GSAP | Strapi(Headless CMS) | Cloudinary | Digital Ocean(Cloud hosting) | Miscroservices | Illustrator</strong><br> My majour projects are available through my portfolio site. I created the background with illustrator and animated elements with css keyframes. </p>
-    </td>
+        </td>
+
   </tr>
   
   
