@@ -97,7 +97,7 @@ In this app, you can view posts (lost items), submit and edit posts, and deactiv
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Angular | Typescript |MySQL Node.js | Strapi (Headless CMS) | Microservices, Digital Ocean(Cloud hosting)| DevOps</strong> <br> Full stack web applications. I created client side with Angular, and back end with Node.js and MySQL.</p>
+        <p><strong>Angular | Typescript |MySQL Node.js | Strapi (Headless CMS) | Microservices, Digital Ocean(Cloud hosting)| DevOps</strong> <br> Full stack web applications. Client side with Angular, and back end with Node.js, database with MySQL.</p>
     </td>
   </tr>
   
