@@ -20,7 +20,7 @@
             <td width="50%" valign="top">
       <h3 align="center">Sustainable Hub</h3>
         <br />
-        <a target="_blank" href="https://sustainable-hub-backend.herokuapp.com/">
+        <a target="_blank" href="https://sustainable-hub.onrender.com" >
          <img src="https://media.giphy.com/media/NoV0M0idoTUfv1AGYW/giphy.gif" width="100%" alt=" Sustainable Hub" >
         </a>
         <br />
@@ -29,7 +29,7 @@
   <a href="https://github.com/SachiGoto/100hours-project" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://sustainable-hub.onrender.com" target="_blank">
+  <a target="_blank" href="https://sustainable-hub.onrender.com" >
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
