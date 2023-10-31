@@ -10,7 +10,7 @@
 
 <a href="https://res.cloudinary.com/vanarts-webdev/image/upload/v1684536108/Sachi_Resume_May_19th_updated_avj4z7.pdf" target="_blank">My resume</a>
 
-<A href="https://sachigoto.me" target="_blank">My portfolio site</a>
+<A href="https://sachigoto.me" target="_blank">Portfolio</a>
 
 <img src="https://www.codewars.com/users/SachiGoto/badges/large">
 
